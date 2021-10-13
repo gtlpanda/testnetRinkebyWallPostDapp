@@ -180,7 +180,7 @@ const App = () => {
       <
       div className = "bio" >
       <
-      b > What is the wall of love ? < /b>  The wall of love is a testnet Ethereum Dapp that allows users with a metamask wallet (connected to the Rinkeby testnet) to post loving messages on the wall.  <
+      b > What is the wall of love ? < /b>  The wall of love is a testnet Ethereum Dapp that allows users with a metamask wallet (connected to the Rinkeby testnet) to spread kindness via wall posts!  <
       br > < /br>  <
       br > < /br>  <
       b > Setting up the testnet : < /b>
